@@ -65,7 +65,3 @@ git submodule add https://github.com/evaggelion/grievance_policy_AI grievance_po
 
 *“Пока язык говорит истину — душа остаётся живой.”*
 
-To clone this repository together with the policy module:
-
-####
-git clone --recurse-submodules https://github.com/evaggelion/Ethical-Game-Theory.git
