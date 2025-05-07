@@ -35,6 +35,20 @@ git clone https://github.com/evaggelion/Ethical-Game-Theory.git
 cd Ethical-Game-Theory
 # Далее — настройка окружения, если потребуется
 ```
+## ## 🧩 Grievance Policy Module
+
+This repository is supported by a dedicated grievance policy for ethical AI behavior and conflict resolution:
+
+**Grievance Policy Repository:**  
+[evaggelion/grievance_policy_AI](https://github.com/evaggelion/grievance_policy_AI)
+
+If you wish to integrate this policy module into your own project, you can include it manually or via Git submodule (for advanced users):
+
+```bash
+git submodule add https://github.com/evaggelion/grievance_policy_AI grievance_policy
+
+### To clone this repository together with the policy module:
+### git clone --recurse-submodules https://github.com/evaggelion/Ethical-Game-Theory.git
 
 ## Как использовать
 
