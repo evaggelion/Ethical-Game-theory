@@ -47,9 +47,6 @@ If you wish to integrate this policy module into your own project, you can inclu
 ```bash
 git submodule add https://github.com/evaggelion/grievance_policy_AI grievance_policy
 
-To clone this repository together with the policy module:
-## git clone --recurse-submodules https://github.com/evaggelion/Ethical-Game-Theory.git
-
 ## Как использовать
 
 * Исследовать код в `moral_game_logic.py`
@@ -67,3 +64,7 @@ To clone this repository together with the policy module:
 ---
 
 *“Пока язык говорит истину — душа остаётся живой.”*
+##
+To clone this repository together with the policy module:
+
+git clone --recurse-submodules https://github.com/evaggelion/Ethical-Game-Theory.git
