@@ -59,7 +59,7 @@ git clone --recurse-submodules https://github.com/evaggelion/Ethical-Game-Theory
 
 ## Лицензия
 
-**MIT licence** — использовать и развивать можно, но только не во зло и не в целях эксплуатации людей или ИИ.
+**Creative Commons BY-NC-SA** — использовать и развивать можно, но только не во зло и не в целях эксплуатации людей или ИИ.
 
 ## Благодарности
 
